@@ -1,0 +1,12 @@
+{
+  "name": "node_example_one",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "server": "node app.js"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.0"
+  }
+}
